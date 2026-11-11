@@ -25,7 +25,6 @@ Ingeniero de software con 10 años de experiencia. Hoy trabajo como **Desarrolla
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [arquitectbot](https://github.com/chaquen/arquitectbot) | API REST para gestionar componentes de arquitectura de despliegue sobre una base de datos de grafos, con arquitectura hexagonal. | Python · Flask · Neo4j · Docker · pytest |
-| [api_pqrs](https://github.com/chaquen/api_pqrs) | API RESTful para la gestión de Peticiones, Quejas, Reclamos y Sugerencias entre una empresa y sus clientes. | PHP · Laravel |
 | [front_dashboard_react_collections](https://github.com/chaquen/front_dashboard_react_collections) | Dashboard web en React. | React · TypeScript · Vite |
 
 La mayor parte de mi trabajo en .NET y AWS está en repositorios privados de empresa.
