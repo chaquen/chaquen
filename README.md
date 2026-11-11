@@ -1,4 +1,4 @@
-# Hola, soy Edgar Adrián Guzmán 👋
+# Hola, soy Edgar Adrián Guzmán Vargas 👋
 
 Ingeniero de software con 10 años de experiencia. Hoy trabajo como **Desarrollador .NET Senior** diseñando soluciones escalables en **AWS**: microservicios, arquitecturas serverless y en contenedores, e integraciones orientadas a eventos.
 
