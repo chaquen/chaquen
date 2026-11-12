@@ -37,4 +37,4 @@ La mayor parte de mi trabajo en .NET y AWS está en repositorios privados de emp
 
 ## Contacto
 
-[Portafolio](https://portfolio-adrian-guzman-s-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/eaguzmanv) · Colombia
+[LinkedIn](https://www.linkedin.com/in/eaguzmanv) · Colombia
