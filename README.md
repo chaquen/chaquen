@@ -20,14 +20,6 @@ Ingeniero de software con 10 años de experiencia. Hoy trabajo como **Desarrolla
 
 **Frontend:** React · TypeScript · JavaScript
 
-## Proyectos destacados
-
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| [arquitectbot](https://github.com/chaquen/arquitectbot) | API REST para gestionar componentes de arquitectura de despliegue sobre una base de datos de grafos, con arquitectura hexagonal. | Python · Flask · Neo4j · Docker · pytest |
-
-La mayor parte de mi trabajo en .NET y AWS está en repositorios privados de empresa.
-
 ## Certificaciones
 
 - AWS Certified Cloud Practitioner (2023)
